@@ -379,6 +379,7 @@
    `(transient-inactive-value ((,class :foreground ,miasma-graphite)))
    `(transient-key-exit ((,class :foreground ,miasma-cedar)))
    `(transient-key-stay ((,class :foreground ,miasma-ecru)))
+   `(transient-key-stack ((,class :foreground ,miasma-tangerine)))
 
    ;;;;; vertico
    `(vertico-current ((,class (:background ,miasma-olive :extend t))))
