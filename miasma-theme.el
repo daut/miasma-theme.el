@@ -1,8 +1,8 @@
-;;; miasma-theme.el --- Miasma: color theme inspired by the woods
+;;; miasma-theme.el --- Miasma: color theme inspired by the woods -*- lexical-binding: t; -*-
 
 ;; Author: Bozidar Dautovic
 ;; URL: http://github.com/daut/miasma-theme.el
-;; Version: 1.6.7
+;; Version: 1.6.8
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
